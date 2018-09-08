@@ -1,2 +1,2 @@
 # simpleMernStarter
-simple mern starter 
+simple mern starter - just as in the video of traversy
