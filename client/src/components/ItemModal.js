@@ -13,8 +13,7 @@ import { connect } from 'react-redux';
 import { addItem } from '../actions/itemActions';
 
 class ItemModal extends Component {
-  state = {
-    modal: false,
+  state = {    modal: false,
     name: ''
   };
 
